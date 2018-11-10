@@ -3,5 +3,6 @@ google_analytics: UA-128575087-1
 description: Saving keystrokes one page at a time
 header_pages:
   - links.md
- disqus:
-    shortname: cgallegu
+url: https://cgallegu.github.io
+disqus:
+  shortname: cgallegu
