@@ -2,7 +2,9 @@
 title: Links
 ---
 
-Links to things I find useful follow.
+Links to things I find useful.
+
+You can contribute to this list by sending a Pull Request.
 
 ## Testing
 - [Spock](http://spockframework.org): Groovy based test framework. Less verbose than JUnit, supports Stubs, Mocks, Spies and *data driven testing* (my favorite feature).
@@ -11,5 +13,7 @@ Links to things I find useful follow.
 ## Optimizing
 - Two excellent posts from Jeff Atwood you should read every time you think about optimizing something: [Why aren't my optimizations optimizing](https://blog.codinghorror.com/why-arent-my-optimizations-optimizing/), [The sad tragedy of micro optimization theater](https://blog.codinghorror.com/the-sad-tragedy-of-micro-optimization-theater/)
 
+## Game development
+I grew playing adventure games. I might eventually right one, just for fun. These are the things and people that keep me wanting to do that.
 
-
+- [Ron Gilbert's blog](https://grumpygamer.com/)
