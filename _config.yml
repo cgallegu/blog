@@ -6,3 +6,4 @@ header_pages:
 url: https://cgallegu.github.io
 disqus:
   shortname: cgallegu
+future: false
