@@ -13,7 +13,7 @@ how to exit it. I recall reading that's not uncommon. It took me close
 to fifteen years to learn how to do it. Wow.
 
 2. Reading about people that create things motivates me to create things.
-I guess it's contagious. Last thing I ran into was [Jaime Zawinsky's blog](https://www.jwz.org).
+I guess it's contagious. Last thing I ran into was [Jaime Zawinski's blog](https://www.jwz.org).
 Thanks Jaime, you got me writing this.
 
 3. Music has a lot of questions. More on this later.
