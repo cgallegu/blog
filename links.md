@@ -4,7 +4,7 @@ title: Links
 
 Links to things I find useful.
 
-You can contribute to this list by sending a Pull Request.
+You can contribute to this list by sending a [Pull Request](https://github.com/cgallegu/cgallegu.github.io/edit/master/links.md).
 
 ## Testing
 - [Spock](http://spockframework.org): Groovy based test framework. Less verbose than JUnit, supports Stubs, Mocks, Spies and *data driven testing* (my favorite feature).
@@ -17,3 +17,11 @@ You can contribute to this list by sending a Pull Request.
 I grew playing adventure games. I might eventually right one, just for fun. These are the things and people that keep me wanting to do that.
 
 - [Ron Gilbert's blog](https://grumpygamer.com/)
+
+## People (and their blogs)
+
+Likely people here will have their own Wikipedia entry. I'll add some context when that's not the case.
+
+- [Ron Gilbert](https://grumpygamer.com/)
+- [Jaime Zawinski](https://www.jwz.org/about.html)
+ 
