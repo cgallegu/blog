@@ -24,4 +24,4 @@ Likely people here will have their own Wikipedia entry. I'll add some context wh
 
 - [Ron Gilbert](https://grumpygamer.com/)
 - [Jaime Zawinski](https://www.jwz.org/about.html)
- 
+- [Fabien Sanglard](http://fabiensanglard.net): His game engine reviews are fantastic.  
