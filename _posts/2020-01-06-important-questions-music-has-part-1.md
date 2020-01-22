@@ -12,8 +12,15 @@ Here, are some of these questions.
 ## Love (in particular)
 * [Is this love?](https://www.youtube.com/watch?v=GOJk0HW_hJw)
 * [Why can't this be love?](https://www.youtube.com/watch?v=STVcNX7anGU)
-* [What is love](https://www.youtube.com/watch?v=HEXWRTEbj1I)
-* [Wouldn't it be nice](https://www.youtube.com/watch?v=nZBKFoeDKJo)
+* [What is love?](https://www.youtube.com/watch?v=HEXWRTEbj1I)
+* [Where is the love?](https://www.youtube.com/watch?v=WpYeekQkAdc)
+
+## Romance (or love in general)
+* [Wouldn't it be nice?](https://www.youtube.com/watch?v=nZBKFoeDKJo)
+* [Are you gonna be my girl?](https://www.youtube.com/watch?v=os7vArsFTws)
+
+## Friendship
+* [Why can't we](https://www.youtube.com/watch?v=W5FfJ89rGPc) [be friends?](https://www.youtube.com/watch?v=z5OXON8vIaA)
 
 ## War
 * [War?](https://www.youtube.com/watch?v=F46r-_jPPHY)
@@ -21,10 +28,6 @@ Here, are some of these questions.
 ## Weather
 * [Have you ever seen the rain?](https://www.youtube.com/watch?v=Gu2pVPWGYMQ)
 * [Who'll stop the rain?](https://www.youtube.com/watch?v=lIPan-rEQJA)
- 
-## General relationships
-* [Why can't we](https://www.youtube.com/watch?v=W5FfJ89rGPc) [be friends?](https://www.youtube.com/watch?v=z5OXON8vIaA)
-* [Are you gonna be my girl?](https://www.youtube.com/watch?v=os7vArsFTws)
 
 ## Meta
 * [Why?](https://www.youtube.com/watch?v=HG7I4oniOyA)
