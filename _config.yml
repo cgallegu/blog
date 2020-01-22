@@ -6,3 +6,5 @@ url: https://cgallegu.github.io
 disqus:
   shortname: cgallegu
 future: false
+plugins:
+  - jekyll-feed
