@@ -2,6 +2,7 @@
 layout: post
 title: "Important questions music has (part 1)"
 date: 2020-01-06 00:00:00
+tags: [music]
 ---
 
 Over the history of mankind, music has captured some, if not the
