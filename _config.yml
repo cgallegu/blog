@@ -8,3 +8,5 @@ disqus:
 future: false
 plugins:
   - jekyll-feed
+show_excerpts: true
+
