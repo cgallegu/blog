@@ -2,11 +2,13 @@ theme: minima
 description: Saving keystrokes one page at a time
 header_pages:
   - links.md
-url: https://cgallegu.github.io
+baseurl: blog
+url: https://cgk.a12.cl/blog
+title: cgk.a12.cl/blog
 disqus:
   shortname: cgallegu
 future: false
 plugins:
   - jekyll-feed
 show_excerpts: true
-
+destination: ../public_html/blog
