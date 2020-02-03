@@ -1,14 +1,22 @@
 theme: minima
+title: cgk's blog
 description: Saving keystrokes one page at a time
 header_pages:
   - links.md
-baseurl: blog
-url: https://cgk.a12.cl/blog
-title: cgk.a12.cl/blog
+baseurl: /blog
+title: www.cgk.cl/blog
 disqus:
   shortname: cgallegu
 future: false
 plugins:
   - jekyll-feed
 show_excerpts: true
-destination: ../public_html/blog
+destination: ~/public_html/blog
+# jekyll-feed
+url: https://www.cgk.cl
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "cgk"
