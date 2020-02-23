@@ -2,6 +2,7 @@ theme: minima
 title: cgk's blog
 description: Saving keystrokes one page at a time
 header_pages:
+  - tags.html
   - links.md
 baseurl: /blog
 title: www.cgk.cl/blog
