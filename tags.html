@@ -1,0 +1,24 @@
+---
+layout: page
+permalink: /tags/
+title: Posts by topic
+---
+
+
+<div id="archives">
+{% assign sorted_tags = site.posts | map: "tags" | sort_natural %}
+{% for tag in sorted_tags %}
+  <div class="archive-group">
+    <div id="#{{ tag | slugize }}"></div>
+    <p></p>
+
+    <h3 class="tag-head">{{ tag }}</h3>
+    <a name="{{ tag | slugize }}"></a>
+    {% for post in site.tags[tag] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>
