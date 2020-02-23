@@ -11,7 +11,7 @@ future: false
 plugins:
   - jekyll-feed
 show_excerpts: true
-destination: ~/public_html/blog
+destination: /home/cgk/public_html/blog
 # jekyll-feed
 url: https://www.cgk.cl
 defaults:
