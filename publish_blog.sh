@@ -6,7 +6,7 @@ echo `date +'[%Y-%m-%d %H:%M:%S]'` Started
 pull_result=$(git pull)
 if [ $? -ne 0 ] ; then
 	echo "$pull_result"
-elif [ "$pull_result" != "Already up to date." ] ; then
+elif [[ "$pull_result" != "Already up to date." || $1 == "force" ]] ; then
 	echo "$pull_result"
 	bundle exec jekyll build
 fi
