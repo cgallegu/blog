@@ -13,6 +13,8 @@ plugins:
   - jekyll-feed
 show_excerpts: true
 destination: /home/cgk/public_html/blog
+exclude:
+  - publish_blog.*
 # jekyll-feed
 url: https://www.cgk.cl
 defaults:
