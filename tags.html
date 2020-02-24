@@ -4,16 +4,19 @@ permalink: /tags/
 title: Posts by topic
 ---
 
-
 <div id="archives">
-{% assign sorted_tags = site.posts | map: "tags" | sort_natural %}
+{% assign sorted_tags = site.posts | map: "tags" | uniq | sort_natural %}
+<h2>Index</h2>
+<ul>
+{% for tag in sorted_tags %}
+  <li><a href="#{{ tag | slugize }}">{{tag}}</a></li>
+{% endfor %}
+</ul>
+
 {% for tag in sorted_tags %}
   <div class="archive-group">
-    <div id="#{{ tag | slugize }}"></div>
-    <p></p>
-
-    <h3 class="tag-head">{{ tag }}</h3>
     <a name="{{ tag | slugize }}"></a>
+    <h3 class="tag-head">{{ tag }}</h3>
     {% for post in site.tags[tag] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
