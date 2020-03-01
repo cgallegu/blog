@@ -15,6 +15,7 @@ show_excerpts: true
 destination: /home/cgk/public_html/blog
 exclude:
   - publish_blog.*
+  - Gemfile*
 # jekyll-feed
 url: https://www.cgk.cl
 defaults:
