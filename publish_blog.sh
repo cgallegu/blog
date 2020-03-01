@@ -6,9 +6,9 @@ echo `date +'[%Y-%m-%d %H:%M:%S]'` Started
 pull_result=$(git pull)
 if [ $? -ne 0 ] ; then
 	echo "$pull_result"
-elif [[ "$pull_result" != "Already up to date." || $1 == "force" ]] ; then
+elif [[ "$pull_result" != "Already up to date." ]] ; then
 	echo "$pull_result"
-	bundle exec jekyll build
+	bundle exec jekyll build -d /tmp/blog/ && rsync -Irc /tmp/blog/ /home/cgk/public_html/blog && rm -rf /tmp/blog
 fi
 echo `date +'[%Y-%m-%d %H:%M:%S]'` End
 
