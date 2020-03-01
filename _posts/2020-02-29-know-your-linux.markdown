@@ -15,9 +15,9 @@ that had changed. Unchanged files (and their dates) should be left undisturbed.
 I remembered `rsync` did some of that magic. A few minutes diving into `man rsync`
 show the following incantation can do that:
 
-> -I, --ignore-times          don't skip files that match size and time
-> -c, --checksum              skip based on checksum, not mod-time & size
-> -r, --recursive             recurse into directories
+> -I, --ignore-times          don't skip files that match size and time  
+> -c, --checksum              skip based on checksum, not mod-time & size  
+> -r, --recursive             recurse into directories  
 
 `-I` will make `rsync` not use size and time to decide what to copy (which I understand
 is the default behavior). `-c` will skip based on the checksum, calculated based on the
