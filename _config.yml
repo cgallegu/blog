@@ -12,7 +12,6 @@ future: false
 plugins:
   - jekyll-feed
 show_excerpts: true
-destination: /home/cgk/public_html/blog
 exclude:
   - publish_blog.*
   - Gemfile*
