@@ -2,7 +2,7 @@
 layout: post
 title: "'cannot load such file -- webrick' in ruby 3.0, jekyll"
 date: "2021-06-09"
-tags: ["ruby"]
+tags: ["ruby", "jekyll"]
 ---
 
 Fix:  `bundle add webrick`
