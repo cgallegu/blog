@@ -4,6 +4,7 @@ description: Saving keystrokes one page at a time
 header_pages:
   - tags.html
   - links.md
+  - contact.md
 baseurl: /blog
 title: www.cgk.cl/blog
 disqus:
